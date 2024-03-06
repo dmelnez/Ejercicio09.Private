@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Repaso09.C-/1.0.0": {
+        "runtime": {
+          "Repaso09.C-.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Repaso09.C-/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

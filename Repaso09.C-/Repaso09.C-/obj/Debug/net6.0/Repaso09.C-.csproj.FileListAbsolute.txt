@@ -1,0 +1,14 @@
+C:\Users\dmelnez\Desktop\Programacion\Repaso09.C-\Repaso09.C-\bin\Debug\net6.0\Repaso09.C-.exe
+C:\Users\dmelnez\Desktop\Programacion\Repaso09.C-\Repaso09.C-\bin\Debug\net6.0\Repaso09.C-.deps.json
+C:\Users\dmelnez\Desktop\Programacion\Repaso09.C-\Repaso09.C-\bin\Debug\net6.0\Repaso09.C-.runtimeconfig.json
+C:\Users\dmelnez\Desktop\Programacion\Repaso09.C-\Repaso09.C-\bin\Debug\net6.0\Repaso09.C-.dll
+C:\Users\dmelnez\Desktop\Programacion\Repaso09.C-\Repaso09.C-\bin\Debug\net6.0\Repaso09.C-.pdb
+C:\Users\dmelnez\Desktop\Programacion\Repaso09.C-\Repaso09.C-\obj\Debug\net6.0\Repaso09.C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmelnez\Desktop\Programacion\Repaso09.C-\Repaso09.C-\obj\Debug\net6.0\Repaso09.C-.AssemblyInfoInputs.cache
+C:\Users\dmelnez\Desktop\Programacion\Repaso09.C-\Repaso09.C-\obj\Debug\net6.0\Repaso09.C-.AssemblyInfo.cs
+C:\Users\dmelnez\Desktop\Programacion\Repaso09.C-\Repaso09.C-\obj\Debug\net6.0\Repaso09.C-.csproj.CoreCompileInputs.cache
+C:\Users\dmelnez\Desktop\Programacion\Repaso09.C-\Repaso09.C-\obj\Debug\net6.0\Repaso09.C-.dll
+C:\Users\dmelnez\Desktop\Programacion\Repaso09.C-\Repaso09.C-\obj\Debug\net6.0\refint\Repaso09.C-.dll
+C:\Users\dmelnez\Desktop\Programacion\Repaso09.C-\Repaso09.C-\obj\Debug\net6.0\Repaso09.C-.pdb
+C:\Users\dmelnez\Desktop\Programacion\Repaso09.C-\Repaso09.C-\obj\Debug\net6.0\Repaso09.C-.genruntimeconfig.cache
+C:\Users\dmelnez\Desktop\Programacion\Repaso09.C-\Repaso09.C-\obj\Debug\net6.0\ref\Repaso09.C-.dll
